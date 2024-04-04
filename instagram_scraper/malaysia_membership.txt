@@ -1,0 +1,60 @@
+firm_no: AF 0775, firms_name: CHONG & ASSOCIATES, Address: 30, JALAN TANJONG 2, TAMAN DESA CEMERLANG, , 81800 ULU TIRAM, State: Johor,Country: MYR,Contact: Tel: 6078618321
+Fax:
+Email: ca@caindcon.org,website: www.caindcon.com, 
+firm_no: AF 1404, firms_name: CHONG Y.C. & CO., Address: SUITE A, GROUND FLOOR, NO. 1, JALAN INTAN 2/5, TAMAN INTAN, 86000 KLUANG, State: Johor,Country: MYR,Contact: Tel: 6077722190
+Fax:
+Email: edwcyc88@gmail.com,website: , 
+firm_no: AF 1586, firms_name: CHUNG & ASSOCIATES, Address: SUITE 807 (8TH FLOOR), MERLIN TOWER, JALAN MELDRUM, 80000 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6072767733
+Fax:
+Email: chung@ca.com.my,website: , 
+firm_no: AF 002298, firms_name: CK PARTNERS PLT, Address: SUITE 809 (8TH FLOOR), MERLIN TOWER, JALAN MELDRUM, , 80000 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6072767733
+Fax:
+Email: mkkor@ckpartners.my,website: , 
+firm_no: AF 002324, firms_name: CKS ASSOCIATES, Address: 8B JALAN HARMONIUM 35/2, TAMAN DESA TEBRAU, , 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073513666
+Fax:
+Email: enquiry@creativehubs.com,website: , 
+firm_no: AF 1201, firms_name: CL NG & ASSOCIATES, Address: 17A BILIK 1, JALAN DEDAP 6, TAMAN JOHOR JAYA, 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073543192
+Fax:
+Email: clngtbs@gmail.com,website: , 
+firm_no: AF 002313, firms_name: CLW & ASSOCIATES, Address: NO. 19-01, BLOCK C, KOMPLEKS AUSTIN PERDANA, JALAN AUSTIN PERDANA 2, , 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073595958
+Fax:
+Email: clw@clw-advisory.com,website: , 
+firm_no: AF 001845, firms_name: CMK & ASSOCIATES, Address: NO. 143-02, JALAN MUTIARA EMAS 10/19, TAMAN MOUNT AUSTIN, , 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073579226
+Fax:
+Email: mkchai@cmk.com.my,website: www.cmk.com.my, 
+firm_no: AF 0978, firms_name: CSY & ASSOCIATES PLT, Address: 5-01, JALAN PERTAMA 4, PUSAT PERDAGANGAN DANGA UTAMA, , 81200 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6075500633
+Fax:
+Email: weixiong@csy-and-associates.co,website: http://csy-and-associates.co/, 
+firm_no: AF 1335, firms_name: CT KUAN & CO., Address: UNIT 12-07, 12TH FLOOR, MENARA TJB, 9 JALAN SYED MOHD MUFTI, 80000 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6072762115
+Fax:
+Email: ctkuan@hotmail.com,website: , 
+firm_no: AF 1286, firms_name: CT TAN & CO, Address: UNIT 1, 149A JALAN DEDAP 4, TAMAN JOHOR JAYA, , 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073550968
+Fax:
+Email: cttanco@yahoo.com,website: , 
+firm_no: AF 002379, firms_name: CW CHAN & CO, Address: NO. 19 JALAN BUKIT IMPIAN 17, TAMAN IMPIAN EMAS, , 81300 SKUDAI, State: Johor,Country: MYR,Contact: Tel: 60127238060
+Fax:
+Email: chongwey@cwchan.com.my,website: , 
+firm_no: AF 0240, firms_name: D R SENG & COMPANY, Address: 48B JALAN MOHD SALLEH, P O BOX 79, , 83007 BATU PAHAT, State: Johor,Country: MYR,Contact: Tel: 6074348806
+Fax:
+Email: drsengco@gmail.com,website: , 
+firm_no: AF 002288, firms_name: DERYK YEO & CO., Address: LOT 9071, 1ST FLOOR, BATU 2 1/4, JALAN BAKRI, 84000 MUAR, State: Johor,Country: MYR,Contact: Tel: 60167238111
+Fax:
+Email: deryk@dyeoco.com,website: , 
+firm_no: AF 001821, firms_name: DOMINIC & CO, Address: NO. 9 & 9A JALAN OMAR, , , 83000 BATU PAHAT, State: Johor,Country: MYR,Contact: Tel: 6074330826
+Fax:
+Email: dominic_co@yahoo.com,website: , 
+firm_no: AF 0308, firms_name: ENG & CO., Address: 171-A JALAN SRI PELANGI, TAMAN PELANGI, , 80400 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073329489
+Fax:
+Email: mptai@hotmail.com,website: , 
+firm_no: AF 001890, firms_name: G K LYE PLT, Address: NO. 39-02, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA, MASAI, 81750 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073869069
+Fax:
+Email: dennis@gklye.com,website: , 
+firm_no: AF 002333, firms_name: GAA PLT, Address: ROOM 1, LEVEL 6, FOH CHONG BUILDING, 66 JALAN IBRAHIM, , 80000 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6072225829
+Fax:
+Email: razlanabas@gmail.com,website: , 
+firm_no: AF 1272, firms_name: GANESH KUMAR & CO., Address: SUITE 11-01, 11TH FLOOR, MENARA TJB, NO. 9 JALAN SYED MOHD. MUFTI, 80000 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6072765191
+Fax:
+Email: gkumara2000@yahoo.com,website: , 
+firm_no: AF 002480, firms_name: GL ONG & CO, Address: NO. 46A, JALAN MOLEK 2/1, TAMAN MOLEK, , 81100 JOHOR BAHRU, State: Johor,Country: MYR,Contact: Tel: 6073531502
+Fax: 073531502
+Email: glengong0522@gmail.com,website: , 
